@@ -2,10 +2,6 @@
 
 Monorepo example on using expo-next-translation library and share across different platform (Next.js & Expo). Check out the library [here](https://github.com/hari1602/expo-next-translation) for more information.
 
-# Follow
-
-
-
 Packages used:
 
 - app
