@@ -1,0 +1,5 @@
+{
+  "name": "locale",
+  "version": "0.0.0",
+  "description": "Locale translation files that shared across packages & projects"
+}
