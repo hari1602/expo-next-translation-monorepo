@@ -2749,7 +2749,7 @@ babel-plugin-syntax-trailing-function-commas@^7.0.0-beta.0:
   resolved "https://registry.yarnpkg.com/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-7.0.0-beta.0.tgz#aa213c1435e2bffeb6fca842287ef534ad05d5cf"
   integrity sha512-Xj9XuRuz3nTSbaTXWv3itLOcxyF4oPD8douBBmj7U9BBC6nEBYfyOJYQMf/8PJAFotC62UY5dFfIGEPr7WswzQ==
 
-babel-preset-expo@^8.4.1, babel-preset-expo@^8.5.1, babel-preset-expo@~8.5.1:
+babel-preset-expo@^8.4.1, babel-preset-expo@~8.5.1:
   version "8.5.1"
   resolved "http://localhost:4873/babel-preset-expo/-/babel-preset-expo-8.5.1.tgz#aac627a6c85b3c0904a226596c6243fac9f19491"
   integrity sha512-qQVG6Twn7tymODw8cH+85QtzFqcD0ckLWgVLC8pzRkwLKP5lIs5gtiYdoUsvhvyWWesSFR9VlhN0HE2Nu7WCWQ==
@@ -4568,10 +4568,10 @@ expo-modules-core@~0.4.4:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
 
-expo-next-translation@^0.0.7:
-  version "0.0.7"
-  resolved "http://localhost:4873/expo-next-translation/-/expo-next-translation-0.0.7.tgz#804a3676cc4bb730f83ba091ab0ea3dad492651d"
-  integrity sha512-Hiit8k8On4S95/R4sf33FwYvX0oa42SjvD0PSw6K/2x/YGVTgXv6I83JGhCyYEckfLcEvCk+ZCehHWYFbVSaOA==
+expo-next-translation@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/expo-next-translation/-/expo-next-translation-0.0.1.tgz#1360401891b149643f08fe9f8313f750f3d3ac1d"
+  integrity sha512-lCuyFsadUHo8mWN81qiHwhY6PyK/oPOloiSTjfdTbZVsOYNSZz1Be7JjbGpGXdO6BJ66Fa51UkPIIry1HX7TMg==
 
 expo-notifications@~0.13.3:
   version "0.13.3"
