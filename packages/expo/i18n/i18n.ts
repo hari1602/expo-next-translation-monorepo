@@ -4,9 +4,9 @@ import i18n from 'i18n-js'
 i18n.fallbacks = true
 
 i18n.translations = {
-  cn: {
-    common: require('locale/cn/common.json'),
-    screen: require('locale/cn/screen.json')
+  ta: {
+    common: require('locale/ta/common.json'),
+    screen: require('locale/ta/screen.json')
   },
   en: {
     common: require('locale/en/common.json'),

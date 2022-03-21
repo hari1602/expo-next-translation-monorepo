@@ -4,7 +4,7 @@
  */
 
 module.exports = {
-  locales: ["en", "cn"],
+  locales: ["en", "ta"],
   defaultLocale: "en",
   pages: {
     "*": ["common", "screen"]

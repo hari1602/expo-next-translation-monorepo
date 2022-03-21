@@ -1,2 +1,2 @@
-export * from './hello-world'
+export * from './home-screen'
 export * from './language-switcher'

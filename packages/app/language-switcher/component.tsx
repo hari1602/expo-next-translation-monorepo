@@ -14,7 +14,7 @@ export const LanguageSwitchComponent: React.FC<Props> = ({ onPress }) => {
         borderColor: 'white'
       }}
     >
-      {['en', 'cn'].map((lng) => {
+      {['en', 'ta'].map((lng) => {
         const isCurrent = lng === lang
         return (
           <TouchableOpacity
